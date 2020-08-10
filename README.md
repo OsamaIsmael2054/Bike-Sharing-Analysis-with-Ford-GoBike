@@ -1,2 +1,0 @@
-# Bike-Sharing-Analysis-with-Ford-GoBike
-This project is about investigating data from https://www.lyft.com/bikes/bay-wheels about bicycle-sharing systems , its really a useful app which gives u the ability to rent bike and ride it to your destination ,this app help the nature by minimizing the pollution coming from cars and buses , it also help the users to get out from trafic jams and make users healthy 
